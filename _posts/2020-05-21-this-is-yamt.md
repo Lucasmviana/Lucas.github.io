@@ -7,22 +7,4 @@ description: "Welcome to YAMT - Yet Another Minimal Theme."
 ---
 
 Nesta ultima semana saiu o teaser do novo filme de LeBron James.
-* hello
-{:toc}
-
-## Features 
-- Minimal and clean design.
-- Fully modular: activate and load only what you really need.
-- Works great on mobile and smaller screens.
-- Supports [Disqus](https://disqus.com/) comments activated only on button press, if you activate them.
-- [Google Analytics](https://www.google.com/analytics/) support.
-- [Open Graph](https://ogp.me/) and [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started) support to better index the website content on search engines and social networks.
-- [MathJAX](https://www.mathjax.org/) and [LaTeX](https://www.latex-project.org/) optional support. Write beautiful math!
-- [RSS](https://github.com/jekyll/jekyll-feed) support.
-- Beautiful [Syntax Highlight](https://yamt.netlify.app/2020/05/19/special-formatting.html#syntax-highlight). Write some code and show it in a graceful way.
-
-## Installation
-[Read here](https://github.com/PandaSekh/Jekyll-YAMT#installation).
-
-## Customization
-[Read here](https://github.com/PandaSekh/Jekyll-YAMT#customize).
+![](https://3.bp.blogspot.com/-JNhi5be0dj4/VyIhNMi524I/AAAAAAAABp0/coBDOSwAdfUyiO-jHk5euEIAzkHvob_0wCLcB/s1600/JUMPER_g_1920x1080.jpg)
