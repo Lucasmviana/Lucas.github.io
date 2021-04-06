@@ -1,7 +1,6 @@
 ---
 layout: default
-title: About
+title: Sobre
 ---
 
-# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
-See [Github](https://github.com/PandaSekh/Jekyll-YAMT).
+Sou Lucas Mendes, sou estudante de matemática e apaixonado por filmes e séries. Fui convidado a fazer uma pagina pessoal e então decidi falar sobre o que mais amo que são cinema e noticias relacionadas. 
