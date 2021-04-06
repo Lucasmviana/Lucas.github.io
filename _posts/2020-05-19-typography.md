@@ -1,133 +1,16 @@
 ---
-title: Typography
+title: Loki
 layout: post
-categories: [Typography, Markdown]
+categories: [minisserie, Marvel, Super-herois]
 image: /assets/img/rose.jpg
 description: "Basic typography and styling for your posts."
-customexcerpt: "Basic and advanced typography in YAMT."
+customexcerpt: "Loki precisa consertar a realidade em novo trailer da série."
 ---
-Reference: [GitHub flavored Markdown](https://help.github.com/en/github/writing-on-github).
-
-* random line to make it work. This will be removed.
-{:toc}
+A Marvel divulgou um novo trailer de Loki, próxima série do estúdio no streaming Disney+. A prévia mostra que o Deus da Trapaça mexeu com o tempo ao roubar o Tesseract em Vingadores: Ultimato e agora vai precisar ajudar a "arrumar" a realidade.
 
 
 
-## Styling text
-**bold**
-{% highlight markdown %}
-**bold**
-{% endhighlight %}
 
-*italic*
-{% highlight markdown %}
- *italic*
-{% endhighlight %}
+![](https://cdn.ome.lt/BEl-cKjQxwp6TIXcXQoVHhENmho=/fit-in/1070x750/smart/filer_public/cd/b0/cdb01d99-b600-4d34-aa74-e2556238f4f7/loki1.png)
 
-~~strikethrough~~
-{% highlight markdown %}
-~~strikethrough~~
-{% endhighlight %}
-
-***bold and italic***
-{% highlight markdown %}
-***bold and italic***
-{% endhighlight %}
-
-## Quotes
->This is a quote
-{% highlight markdown %}
->This is a quote
-{% endhighlight %}
-
->This is a quote with author  
-><cite><a href="#">The author</a></cite>
-
-{% highlight markdown %}
->This is a quote with author  
-><cite><a href="#">The author</a></cite>
-{% endhighlight %}
-
-## Links
-Theme designed by [Alessio Franceschi](https://alessiofranceschi.me).
-{% highlight markdown %}
-Theme designed by [Alessio Franceschi](https://alessiofranceschi.me).
-{% endhighlight %}
-
-Links can also be relative. [Like this one](/contact.html).
-{% highlight markdown %}
-Links can also be relative. [Like this one](/contact.html).
-{% endhighlight %}
-
-## Lists
-Unordered:
-- this
-- is
-- unordered
-{% highlight markdown %}
-- this
-- is
-- unordered
-{% endhighlight %}  
-
-Ordered:
-1. but
-2. this
-3. is
-4. ordered
-{% highlight markdown %}
-1. but
-2. this
-3. is
-4. ordered
-{% endhighlight %}  
-
-Nested:
-1. First point
-    - but also this
-    - and also this
-        - and this one too
-2. Second point
-{% highlight markdown %}
-1. First point
-    - but also this
-    - and also this
-        - and this one too
-2. Second point
-{% endhighlight %}  
-
-
-## Task Lists
-- [x] Write some CSS 
-- [ ] Fix bugs
-- [ ] Add related posts
-{% highlight markdown %}
-- [x] Write some CSS 
-- [ ] Fix bugs
-- [ ] Add related posts
-{% endhighlight %}  
-
-## Syntax Highlighting
-[Read here](/2020/05/19/special-formatting.html#code-highlight).
-
-## MathJAX and LaTeX
-[Read here](/2020/05/19/special-formatting.html#mathjax-and-latex).
-
-## Alerts
-[Read here](/2020/05/19/special-formatting.html#alerts).
-
-## Table of Contents
-[Read here](/2020/05/19/special-formatting.html#table-of-contents).
-
-## Headings
-
-# The largest heading
-## The second largest heading
-###### The smallest heading
-
-
-{% highlight markdown %}
-# The largest heading
-## The second largest heading
-###### The smallest heading
-{% endhighlight %}
+Com estreia marcada para 11 de junho, Loki revelará o que aconteceu com o personagem após os eventos de Vingadores: Ultimato. Além de Hiddleston, Owen Wilson, Gugu Mbatha-Raw, Sophia Di Martino e Richard E. Grant também estão no elenco da série.
