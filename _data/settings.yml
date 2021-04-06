@@ -4,7 +4,7 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Meu Site
+  text: Meu blog para falar sobre cinema.
 
 #Nav 
 nav:
