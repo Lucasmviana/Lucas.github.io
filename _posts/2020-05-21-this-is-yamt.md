@@ -1,13 +1,12 @@
 ---
-title: This is YAMT!
+title: Space Jam 2!
 layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
 description: "Welcome to YAMT - Yet Another Minimal Theme."
 ---
 
-Welcome to YAMT - Yet Another Minimal Theme. YAMT is a minimal Jekyll theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
-
+Nesta ultima semana saiu o teaser do novo filme de LeBron James.
 * hello
 {:toc}
 
