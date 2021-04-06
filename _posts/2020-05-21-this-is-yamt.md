@@ -1,9 +1,9 @@
 ---
 title: Space Jam 2!
 layout: post
-categories: [Typography, Markdown, Tips]
+categories: [Filmes, Notícia, Cultura Pop]
 image: /assets/img/logo.jpg
-description: "Welcome to YAMT - Yet Another Minimal Theme."
+description: "Confira o novo teaser de Space Jam 2."
 ---
 
 Nesta última semana saiu o teaser do novo filme de LeBron James, Space Jam: Um Novo Legado. Pode ser conferido no Youtube da WarnerBrasil. Com previsão de estreia para 2021, Space Jam: Um Novo Legado chegará aos cinemas 25 anos após o longa estrelado por Michael Jordan. No novo filme, os Looney Tunes enfrentarão uma nova ameaça nas quadras, desta vez com a ajuda de LeBron James, considerado um dos melhores jogadores de basquete da atualidade.
