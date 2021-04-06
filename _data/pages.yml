@@ -1,5 +1,5 @@
 pages:
   - {name: 'Sobre', url: 'about.html'}
-  - {name: 'Contact', url: 'contact.html'}
-  - {name: 'Archive', url: 'archive.html'}
+  - {name: 'Contato', url: 'contact.html'}
+  - {name: 'Arquivos', url: 'archive.html'}
  
