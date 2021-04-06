@@ -4,8 +4,8 @@ layout: post
 categories: [minisserie , Marvel, Super-Heroi ]
 image: /assets/img/airplane.jpg
 #gif: mygif
-description: "Let's get this theme to work!"
-customexcerpt: "Learn how to write a post in YAMT."
+description: ""
+customexcerpt: "Falcão e o Soldado Invernal tem maior estreia da história do Disney+."
 ---
 
 Falcão e o Soldado Invernal tem maior estreia da história do Disney+. 
